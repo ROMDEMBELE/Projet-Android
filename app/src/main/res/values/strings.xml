@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">MyApp</string>
+    <string name="timeleft">Temps restant : %1$02d:%2$02d</string>
+    <string name="action_sign_in">Se connecter</string>
+    <string name="action_create_account">Inscription</string>
+    <string name="marque">MARQUE :</string>
+    <string name="modele">MODELE :</string>
+    <string name="plaque">PLAQUE :</string>
+    <string name="add_voiture">AJOUTER UNE NOUVELLE VOITURE</string>
+    <string name="add_usager">INSCRIPTION USAGER</string>
+    <string name="valider">VALIDER</string>
+    <array name="marque_list">
+        <item>RENAULT</item>
+        <item>TOYOTA</item>
+        <item>FORD</item>
+        <item>PEUGEOT</item>
+        <item>FIAT</item>
+        <item>CITROËN</item>
+    </array>
+</resources>
